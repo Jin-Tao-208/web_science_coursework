@@ -1,4 +1,4 @@
-# Web Science Group Coursework
+# Real-time event monitoring on social media based on Twitter
 
 **Project Git-Hub link:**
 
